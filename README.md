@@ -9,3 +9,7 @@
 <p align="center">
     <img width="200" src="https://cdn.discordapp.com/attachments/1266570127470760079/1307692584868646922/384585256-282caf8e-7e72-4785-adb8-db85a89f7027.png?ex=673b3b1f&is=6739e99f&hm=c470d5088a38fe4ea857f7363bd5047e79b59ef9d277b2686928f52dc64201f3&" alt="Material Bread logo">
 </p>
+
+<p align="center">
+    “ Hello! Blitzwing or Edd here.. Wanted to tell you that this is my MAIN account. And of course for sillies like Discord and PonyTown. ”
+</p>
