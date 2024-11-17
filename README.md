@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-    **BLITZWING’S** *CHOKEHOLD*
+    𝘉𝘓𝘐𝘛𝘡𝘞𝘐𝘕𝘎’𝘚 𝘊𝘏𝘖𝘒𝘌𝘏𝘖𝘓𝘋
 </p>
