@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-    <span style="color: purple"> BLITZWING </span>
+    **BLITZWING’S** *CHOKEHOLD*
 </p>
