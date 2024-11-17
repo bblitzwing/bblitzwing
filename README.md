@@ -25,3 +25,7 @@
 <p align="center">
     <img width="200" src="https://cdn.discordapp.com/attachments/1266570127470760079/1307695517152841778/32b7716739fdc6ab413d24f5f0489051.gif?ex=673b3ddb&is=6739ec5b&hm=a36dae7428331c96586827f2a1f9cd199ece7cfa4888e1d848fbdc79f30a3c2c&" alt="Material Bread logo">
 </p>
+
+<p align="center">
+    This is me <\3
+</p>
